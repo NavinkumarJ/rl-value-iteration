@@ -90,7 +90,9 @@ def value_iteration(P, gamma=1.0, theta=1e-10):
 ```
 
 ## OUTPUT:
-![image](https://github.com/Akash020803/rl-value-iteration/assets/94177474/7d4bbdb7-296b-49f9-80ab-5861c92b1c57)
+![312286680-e050bb57-7806-48bb-bade-7c885df9a68a](https://github.com/NavinkumarJ/rl-value-iteration/assets/115530758/a54928e1-daff-4b7c-9bab-6c05d19a37e7)
+![nk](https://github.com/NavinkumarJ/rl-value-iteration/assets/115530758/035fafbf-d462-4576-bc24-8bdb043d3e89)
+![312286685-7a843f55-fd53-4c4f-a1cd-5e6b4b97e0cc](https://github.com/NavinkumarJ/rl-value-iteration/assets/115530758/fdc47884-e61b-4552-b40b-ebde2d260c17)
 
 
 ## RESULT:
